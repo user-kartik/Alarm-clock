@@ -1,4 +1,4 @@
-#Importing all the necessary libraries to form the alarm clock:
+#In this we have to import all the necessary libraries to form the alarm clock:
 from tkinter import *
 import datetime
 import time
